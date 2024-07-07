@@ -1,1 +1,1 @@
-# ShopAppRedux
+# ShopeaseApp
